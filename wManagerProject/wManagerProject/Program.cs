@@ -8,10 +8,13 @@ namespace wManagerProject
     {
         static void Main(string[] args)
         {
-            //string path = @"C:\Users\weixu\Downloads\Warframe\3741262_SleepNue_GDPR_Warframe.txt";
-            string section = "subFirst";
-            //string Filepath = @"C:\Users\bobyu\Documents\code\sCode\cSharp2025\wManagerProject\wManagerProject\WData";
-            string Filepath = @"C:\Users\bobyu\Documents\code\sCode\cSharp2025\wManagerProject\wManagerProject\WData\Warframe.txt";
+            // home pc
+            //string Filepath = @"C:\Users\weixu\Downloads\Warframe\3741262_SleepNue_GDPR_Warframe.txt";
+            string section = "WARFRAMES";
+            // home pc
+            string Filepath = @"C:\Users\weixu\Documents\cSharp2025\wManagerProject\wManagerProject\WData\Warframe.txt";
+            // school pc
+            //string Filepath = @"C:\Users\bobyu\Documents\code\sCode\cSharp2025\wManagerProject\wManagerProject\WData\Warframe.txt";
 
             //string[] dirs = Directory.GetDirectories(Filepath,"*", SearchOption.AllDirectories);
 
@@ -40,16 +43,18 @@ namespace wManagerProject
                     string line;
                     while ((line = reader.ReadLine()) != null)
                     {
-                        Console.WriteLine("1");
-                        int indentLvl = line.TakeWhile(c => c == '\t').Count();
+                        //Console.WriteLine("1");
+                        int indentLvl = line.TakeWhile(c => c == '\t' || c == ' ').Count();
 
                         Console.WriteLine();
                         Console.WriteLine(line);
                         string trimLine = line.Trim();
-                        Console.WriteLine($"##{setIndentLvl}");
+                        Console.WriteLine($"#{setIndentLvl}");
 
                         if (trimLine == section)
                         {
+                            Console.WriteLine($"Found section: {section}");
+
                             Console.WriteLine("2");
                             inSection = true;
                             // add 1 per indent level
@@ -62,13 +67,17 @@ namespace wManagerProject
                             Console.WriteLine("3");
                             if (indentLvl >= setIndentLvl)
                             {
-                                Console.WriteLine("4");
-                                // trimline seems to be empty
-                                content.AppendLine(trimLine);
+                                if (!string.IsNullOrEmpty(trimLine)) // Ignore empty lines
+                                {
+                                    //Console.WriteLine("4");
+                                    content.AppendLine(trimLine);
+
+                                }
                             }
                             else
                             {
                                 Console.WriteLine("5");
+                                Console.WriteLine($"Exitiing : {section}");
                                 break;
                             }
                         }
