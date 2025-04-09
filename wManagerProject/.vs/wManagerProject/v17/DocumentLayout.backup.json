@@ -3,29 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\weixu\\Documents\\cSharp2025\\wManagerProject\\",
   "Documents": [
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|c:\\users\\bobyu\\documents\\code\\scode\\csharp2025\\wmanagerproject\\wmanagerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|c:\\users\\weixu\\documents\\csharp2025\\wmanagerproject\\wmanagerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|solutionrelative:wmanagerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|c:\\users\\bobyu\\documents\\code\\scode\\csharp2025\\wmanagerproject\\wmanagerproject\\warframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|solutionrelative:wmanagerproject\\warframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|c:\\users\\bobyu\\documents\\code\\scode\\csharp2025\\wmanagerproject\\wmanagerproject\\wdata\\warframe.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+=======
+      "AbsoluteMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|c:\\users\\weixu\\documents\\csharp2025\\wmanagerproject\\wmanagerproject\\wdata\\warframe.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+>>>>>>> 4aee9216c115a0afd0e9c580552c3482ad9f6372
       "RelativeMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|solutionrelative:wmanagerproject\\wdata\\warframe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|c:\\users\\bobyu\\documents\\code\\scode\\csharp2025\\wmanagerproject\\wmanagerproject\\wdata\\warframe.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|solutionrelative:wmanagerproject\\wdata\\warframe.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-=======
-      "AbsoluteMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|c:\\users\\weixu\\documents\\csharp2025\\wmanagerproject\\wmanagerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|solutionrelative:wmanagerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|c:\\users\\weixu\\documents\\csharp2025\\wmanagerproject\\wmanagerproject\\wdata\\warframe.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|solutionrelative:wmanagerproject\\wdata\\warframe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
->>>>>>> 4aee9216c115a0afd0e9c580552c3482ad9f6372
     }
   ],
   "DocumentGroupContainers": [
@@ -35,11 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
           "SelectedChildIndex": 2,
-=======
-          "SelectedChildIndex": 1,
->>>>>>> 4aee9216c115a0afd0e9c580552c3482ad9f6372
           "Children": [
             {
               "$type": "Document",
@@ -52,22 +43,10 @@
               "RelativeToolTip": "wManagerProject\\Warframe.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T15:02:19.375Z",
-=======
-              "Title": "Warframe.txt",
-              "DocumentMoniker": "C:\\Users\\weixu\\Documents\\cSharp2025\\wManagerProject\\wManagerProject\\WData\\Warframe.txt",
-              "RelativeDocumentMoniker": "wManagerProject\\WData\\Warframe.txt",
-              "ToolTip": "C:\\Users\\weixu\\Documents\\cSharp2025\\wManagerProject\\wManagerProject\\WData\\Warframe.txt",
-              "RelativeToolTip": "wManagerProject\\WData\\Warframe.txt",
-              "ViewState": "AgIAAA8LAAAAAAAAAAAnwCULAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-17T15:37:18.163Z",
->>>>>>> 4aee9216c115a0afd0e9c580552c3482ad9f6372
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T15:02:19.375Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "Warframe.json",
               "DocumentMoniker": "C:\\Users\\bobyu\\Documents\\code\\sCode\\cSharp2025\\wManagerProject\\wManagerProject\\WData\\Warframe.json",
@@ -77,11 +56,20 @@
               "ViewState": "AgIAADIAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-07T14:57:03.096Z"
+=======
+              "Title": "Warframe.txt",
+              "DocumentMoniker": "C:\\Users\\weixu\\Documents\\cSharp2025\\wManagerProject\\wManagerProject\\WData\\Warframe.txt",
+              "RelativeDocumentMoniker": "wManagerProject\\WData\\Warframe.txt",
+              "ToolTip": "C:\\Users\\weixu\\Documents\\cSharp2025\\wManagerProject\\wManagerProject\\WData\\Warframe.txt",
+              "RelativeToolTip": "wManagerProject\\WData\\Warframe.txt",
+              "ViewState": "AgIAAA8LAAAAAAAAAAAnwCULAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-17T15:37:18.163Z",
+              "EditorCaption": ""
+>>>>>>> 4aee9216c115a0afd0e9c580552c3482ad9f6372
             },
             {
               "$type": "Document",
-=======
->>>>>>> 4aee9216c115a0afd0e9c580552c3482ad9f6372
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\weixu\\Documents\\cSharp2025\\wManagerProject\\wManagerProject\\Program.cs",
@@ -89,9 +77,9 @@
               "ToolTip": "C:\\Users\\weixu\\Documents\\cSharp2025\\wManagerProject\\wManagerProject\\Program.cs",
               "RelativeToolTip": "wManagerProject\\Program.cs",
 <<<<<<< HEAD
-              "ViewState": "AgIAAH4AAAAAAAAAAADwv2wAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAADwv9gAAAALAAAAAAAAAA==",
 =======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAvwAsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwA8AAAAYAAAAAAAAAA==",
 >>>>>>> 4aee9216c115a0afd0e9c580552c3482ad9f6372
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T06:08:51.635Z",

@@ -13,8 +13,7 @@ namespace wManagerProject
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
-=======
+
             // home pc
             //string Filepath = @"C:\Users\weixu\Downloads\Warframe\3741262_SleepNue_GDPR_Warframe.txt";
             string section = "WARFRAMES";
@@ -22,7 +21,7 @@ namespace wManagerProject
             string Filepath = @"C:\Users\weixu\Documents\cSharp2025\wManagerProject\wManagerProject\WData\Warframe.txt";
             // school pc
             //string Filepath = @"C:\Users\bobyu\Documents\code\sCode\cSharp2025\wManagerProject\wManagerProject\WData\Warframe.txt";
->>>>>>> 4aee9216c115a0afd0e9c580552c3482ad9f6372
+
 
             string filepath = @"C:\Users\bobyu\Documents\code\sCode\cSharp2025\wManagerProject\wManagerProject\WData\Warframe.json";
             //string json = File.ReadAllText(filepath);
@@ -105,49 +104,9 @@ namespace wManagerProject
                     // StringComparison.OrdinalIgnoreCase compares 2 strings ignoring case
                     if (warframe.name.Equals(name, StringComparison.OrdinalIgnoreCase))
                     {
-<<<<<<< HEAD
+
                         characterToRemove = warframe;
                         break; // Stop once we find the first match
-=======
-                        //Console.WriteLine("1");
-                        int indentLvl = line.TakeWhile(c => c == '\t' || c == ' ').Count();
-
-                        Console.WriteLine();
-                        Console.WriteLine(line);
-                        string trimLine = line.Trim();
-                        Console.WriteLine($"#{setIndentLvl}");
-
-                        if (trimLine == section)
-                        {
-                            Console.WriteLine($"Found section: {section}");
-
-                            Console.WriteLine("2");
-                            inSection = true;
-                            // add 1 per indent level
-                            setIndentLvl = indentLvl + 1;
-                            continue;
-                        }
-
-                        if (inSection)
-                        {
-                            Console.WriteLine("3");
-                            if (indentLvl >= setIndentLvl)
-                            {
-                                if (!string.IsNullOrEmpty(trimLine)) // Ignore empty lines
-                                {
-                                    //Console.WriteLine("4");
-                                    content.AppendLine(trimLine);
-
-                                }
-                            }
-                            else
-                            {
-                                Console.WriteLine("5");
-                                Console.WriteLine($"Exitiing : {section}");
-                                break;
-                            }
-                        }
->>>>>>> 4aee9216c115a0afd0e9c580552c3482ad9f6372
                     }
                 }
 
