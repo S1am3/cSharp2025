@@ -1,0 +1,116 @@
+{
+  "Warframes": [
+    {
+      "name": "Valkyr Prime",
+      "date": "2038-01-19 03:14:07",
+      "polarized": 4,
+      "OrokinCatalysts": false,
+      "OrokinReactors": false,
+      "Exilus": false
+    },
+    {
+      "name": "Excalibur Umbra",
+      "date": "2038-01-19 03:14:07",
+      "polarized": 1,
+      "OrokinCatalysts": false,
+      "OrokinReactors": false,
+      "Exilus": false
+    },
+    {
+      "name": "Octavia",
+      "date": "2019-09-21 19:09:22",
+      "polarized": 0,
+      "OrokinCatalysts": false,
+      "OrokinReactors": false,
+      "Exilus": false
+    },
+    {
+      "name": "Mesa Prime",
+      "date": "2020-01-05 22:45:21",
+      "polarized": 0,
+      "OrokinCatalysts": false,
+      "OrokinReactors": false,
+      "Exilus": false
+    },
+    {
+      "name": "Mirage Prime",
+      "date": "2038-01-19 03:14:07",
+      "polarized": 2,
+      "OrokinCatalysts": false,
+      "OrokinReactors": false,
+      "Exilus": false
+    },
+    {
+      "name": "Revenant",
+      "date": "2038-01-19 03:14:07",
+      "polarized": 5,
+      "OrokinCatalysts": false,
+      "OrokinReactors": false,
+      "Exilus": false
+    },
+    {
+      "name": "Nekros Prime",
+      "date": "2038-01-19 03:14:07",
+      "polarized": 2,
+      "OrokinCatalysts": false,
+      "OrokinReactors": false,
+      "Exilus": false
+    },
+    {
+      "name": "Volt Prime",
+      "date": "2038-01-19 03:14:07",
+      "polarized": 2,
+      "OrokinCatalysts": false,
+      "OrokinReactors": false,
+      "Exilus": false
+    },
+    {
+      "name": "Octavia Prime",
+      "date": "2022-05-06 19:43:33",
+      "polarized": 3,
+      "OrokinCatalysts": false,
+      "OrokinReactors": false,
+      "Exilus": false
+    },
+    {
+      "name": "Styanax",
+      "date": "2038-01-19 03:14:07",
+      "polarized": 3,
+      "OrokinCatalysts": false,
+      "OrokinReactors": false,
+      "Exilus": false
+    },
+    {
+      "name": "Revenant Prime",
+      "date": "2038-01-19 03:14:07",
+      "polarized": 4,
+      "OrokinCatalysts": false,
+      "OrokinReactors": false,
+      "Exilus": false
+    },
+    {
+      "name": "Dante",
+      "date": "2038-01-19 03:14:07",
+      "polarized": 3,
+      "OrokinCatalysts": false,
+      "OrokinReactors": false,
+      "Exilus": false
+    },
+    {
+      "name": "Wisp Prime",
+      "date": "2025-01-18 08:45:11",
+      "polarized": 3,
+      "OrokinCatalysts": false,
+      "OrokinReactors": false,
+      "Exilus": false
+    },
+    {
+      "name": "Cyte-09",
+      "date": "2025-01-28 17:40:00",
+      "polarized": 0,
+      "OrokinCatalysts": false,
+      "OrokinReactors": false,
+      "Exilus": false
+    }
+  ]
+}

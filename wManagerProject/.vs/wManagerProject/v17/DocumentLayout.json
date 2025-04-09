@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|solutionrelative:wmanagerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|c:\\users\\bobyu\\documents\\code\\scode\\csharp2025\\wmanagerproject\\wmanagerproject\\warframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|solutionrelative:wmanagerproject\\warframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|c:\\users\\bobyu\\documents\\code\\scode\\csharp2025\\wmanagerproject\\wmanagerproject\\wdata\\warframe.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|solutionrelative:wmanagerproject\\wdata\\warframe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|c:\\users\\bobyu\\documents\\code\\scode\\csharp2025\\wmanagerproject\\wmanagerproject\\wdata\\warframe.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D8B74E3-D94E-4607-8611-5875B63032E5}|wManagerProject\\wManagerProject.csproj|solutionrelative:wmanagerproject\\wdata\\warframe.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,20 +26,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Warframe.txt",
-              "DocumentMoniker": "C:\\Users\\bobyu\\Documents\\code\\sCode\\cSharp2025\\wManagerProject\\wManagerProject\\WData\\Warframe.txt",
-              "RelativeDocumentMoniker": "wManagerProject\\WData\\Warframe.txt",
-              "ToolTip": "C:\\Users\\bobyu\\Documents\\code\\sCode\\cSharp2025\\wManagerProject\\wManagerProject\\WData\\Warframe.txt",
-              "RelativeToolTip": "wManagerProject\\WData\\Warframe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-17T15:37:18.163Z",
-              "EditorCaption": ""
+              "Title": "Warframe.cs",
+              "DocumentMoniker": "C:\\Users\\bobyu\\Documents\\code\\sCode\\cSharp2025\\wManagerProject\\wManagerProject\\Warframe.cs",
+              "RelativeDocumentMoniker": "wManagerProject\\Warframe.cs",
+              "ToolTip": "C:\\Users\\bobyu\\Documents\\code\\sCode\\cSharp2025\\wManagerProject\\wManagerProject\\Warframe.cs",
+              "RelativeToolTip": "wManagerProject\\Warframe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:02:19.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Warframe.json",
+              "DocumentMoniker": "C:\\Users\\bobyu\\Documents\\code\\sCode\\cSharp2025\\wManagerProject\\wManagerProject\\WData\\Warframe.json",
+              "RelativeDocumentMoniker": "wManagerProject\\WData\\Warframe.json",
+              "ToolTip": "C:\\Users\\bobyu\\Documents\\code\\sCode\\cSharp2025\\wManagerProject\\wManagerProject\\WData\\Warframe.json",
+              "RelativeToolTip": "wManagerProject\\WData\\Warframe.json",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T14:57:03.096Z"
             },
             {
               "$type": "Document",
@@ -41,10 +60,22 @@
               "RelativeDocumentMoniker": "wManagerProject\\Program.cs",
               "ToolTip": "C:\\Users\\bobyu\\Documents\\code\\sCode\\cSharp2025\\wManagerProject\\wManagerProject\\Program.cs",
               "RelativeToolTip": "wManagerProject\\Program.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAQwAsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAADwv9gAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T06:08:51.635Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Warframe.txt",
+              "DocumentMoniker": "C:\\Users\\bobyu\\Documents\\code\\sCode\\cSharp2025\\wManagerProject\\wManagerProject\\WData\\Warframe.txt",
+              "RelativeDocumentMoniker": "wManagerProject\\WData\\Warframe.txt",
+              "ToolTip": "C:\\Users\\bobyu\\Documents\\code\\sCode\\cSharp2025\\wManagerProject\\wManagerProject\\WData\\Warframe.txt",
+              "RelativeToolTip": "wManagerProject\\WData\\Warframe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-17T15:37:18.163Z"
             }
           ]
         }
